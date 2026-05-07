@@ -41,3 +41,6 @@ installer/
 ### Temporary build files ###
 *.class
 PngToIco.java
+
+### Release artifacts ###
+PDMS-*.zip
