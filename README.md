@@ -10,8 +10,17 @@ A modern Java Swing desktop application for organizing your daily life. PDMS com
 
 ---
 
+## 📥 Download
+
+> **[⬇️ Download PDMS v1.0 for Windows (.exe)](https://github.com/cybersaad/Personal-Diary-Management-System/releases/latest)**
+
+Just download `PDMS-v1.0-Windows.zip`, extract it, and run **`PDMS.exe`** — no Java installation required.
+
+---
+
 ## Table of Contents
 
+- [Download](#-download)
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
@@ -24,6 +33,7 @@ A modern Java Swing desktop application for organizing your daily life. PDMS com
 - [How Data is Stored](#how-data-is-stored)
 - [Technologies Used](#technologies-used)
 - [Authors](#authors)
+- [License](#license)
 
 ---
 
@@ -83,13 +93,13 @@ A modern Java Swing desktop application for organizing your daily life. PDMS com
 
 ### Option 1 — Run the `.exe` (Recommended)
 
-This is the easiest way to run PDMS on any Windows PC. No Java installation needed on the target machine.
+This is the easiest way to run PDMS on any Windows PC. No Java installation needed.
 
-1. Download or locate the `installer/PDMS/` folder.
-2. Copy the **entire `PDMS` folder** to any location on your PC (e.g., `C:\Program Files\PDMS\` or your Desktop).
-3. Double-click **`PDMS.exe`** to launch the application.
+1. Go to **[Releases](https://github.com/cybersaad/Personal-Diary-Management-System/releases/latest)** and download `PDMS-v1.0-Windows.zip`.
+2. **Extract** the zip to any folder on your PC (e.g., Desktop or `C:\Program Files\PDMS\`).
+3. Open the extracted `PDMS` folder and double-click **`PDMS.exe`** to launch.
 
-> **Note:** The `PDMS` folder must stay intact — it contains the runtime and app files needed to run.
+> **Note:** Keep all the files inside the `PDMS` folder together — the `.exe` needs the bundled runtime files to work.
 
 ---
 
@@ -243,6 +253,7 @@ PersonalDiaryApp/
 ├── build-exe.bat                      # Build script (compile + JAR + .exe)
 ├── MANIFEST.MF                        # JAR manifest (main class)
 ├── README.md                          # This file
+├── LICENSE                            # MIT License
 └── .gitignore
 ```
 
@@ -332,4 +343,10 @@ All dates are validated and stored in **YYYY-MM-DD** (ISO 8601) format:
 
 ---
 
-*PDMS v1.0*
+## License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+*PDMS v1.0 — Made with ☕ by Saad and Zahid*
