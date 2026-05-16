@@ -67,6 +67,18 @@ A modern Java Swing desktop application for organizing your daily life. PDMS com
 |-----------|-------------|--------------|
 | Deep navy themed landing page with the PDMS logo and navigation buttons | Two-panel layout with mood dropdown and search | Color-coded priority bars (Red/Orange/Green) |
 
+<img width="1039" height="611" alt="image" src="https://github.com/user-attachments/assets/1d3bc86c-ad54-4710-8f5a-a029156aafda" />
+
+<img width="904" height="571" alt="image" src="https://github.com/user-attachments/assets/44411a6e-d23e-4497-bc25-eb51397ce553" />
+
+<img width="465" height="515" alt="image" src="https://github.com/user-attachments/assets/be3c5ed6-c515-4ed0-9fce-6afeac2025b3" />
+
+<img width="569" height="552" alt="image" src="https://github.com/user-attachments/assets/dfe160a8-8dfa-4e65-bf1f-f5532a26656c" />
+
+<img width="487" height="596" alt="image" src="https://github.com/user-attachments/assets/78f73de6-d0e4-4c22-9973-b1bfa4830e99" />
+
+<img width="947" height="580" alt="image" src="https://github.com/user-attachments/assets/d3a91c17-e762-4b36-b792-5da67bf4a09a" />
+
 ---
 
 ## Installation
