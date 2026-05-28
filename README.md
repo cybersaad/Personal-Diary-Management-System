@@ -340,7 +340,7 @@ All dates are validated and stored in **YYYY-MM-DD** (ISO 8601) format:
 
 ## Authors
 
-**Created by SaadKhan and Zahid Ullah** as a university semester project.
+**Created by Saad Khan and Zahid Ullah** as a university semester project.
 
 ---
 
