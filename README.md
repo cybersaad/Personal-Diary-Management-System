@@ -29,7 +29,7 @@ A modern Java Swing desktop application for organizing your daily life. PDMS com
 
 ## Features
 
-### 📖 Diary Entry
+### Diary Entry
 - Write and manage personal diary entries with a **title**, **date**, and **content**.
 - **Mood Linking** — Attach a mood (Happy, Sad, Relaxed, Stressed, Angry) to each entry.
 - Search and filter entries by title or date.
