@@ -35,12 +35,12 @@ A modern Java Swing desktop application for organizing your daily life. PDMS com
 - Search and filter entries by title or date.
 - Full CRUD support (Create, Read, Update, Delete).
 
-### 🛒 Grocery List
+### Grocery List
 - Add grocery items and mark them as purchased.
 - Purchased items are highlighted in **green** for quick visual scanning.
 - Full CRUD support.
 
-### 📋 Task Manager
+### Task Manager
 - Create tasks with a title, deadline, and priority level (High / Medium / Low).
 - **Color-Coded Priorities:**
   - 🔴 **Red** — High priority
