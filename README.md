@@ -49,12 +49,12 @@ A modern Java Swing desktop application for organizing your daily life. PDMS com
 - Mark tasks as completed; completed tasks appear dimmed.
 - Full CRUD support.
 
-### 😊 Mood Tracker
+### Mood Tracker
 - Log your daily mood with an optional note.
 - **Mood Summary** — A summary card at the top shows your most frequently logged mood with an emoji.
 - Visual emoji indicators for each mood in the history list.
 
-### 💫 Memories
+### Memories
 - Record personal memories with a title, date, location, and description.
 - Search and filter memories by title, date, or location.
 - Location pins displayed alongside each memory entry.
