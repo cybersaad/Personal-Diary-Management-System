@@ -43,9 +43,9 @@ A modern Java Swing desktop application for organizing your daily life. PDMS com
 ### Task Manager
 - Create tasks with a title, deadline, and priority level (High / Medium / Low).
 - **Color-Coded Priorities:**
-  - 🔴 **Red** — High priority
-  - 🟠 **Orange** — Medium priority
-  - 🟢 **Green** — Low priority
+  - **Red** — High priority
+  - **Orange** — Medium priority
+  - **Green** — Low priority
 - Mark tasks as completed; completed tasks appear dimmed.
 - Full CRUD support.
 
