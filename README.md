@@ -307,9 +307,9 @@ To prevent data corruption when users type special characters (like `|`, newline
 ### Date Format
 
 All dates are validated and stored in **YYYY-MM-DD** (ISO 8601) format:
-- ✅ Sortable
-- ✅ Internationally unambiguous
-- ✅ Human-readable
+- Sortable
+- Internationally unambiguous
+- Human-readable
 
 ---
 
